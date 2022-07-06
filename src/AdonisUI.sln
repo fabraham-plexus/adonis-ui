@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29613.14
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdonisUI", "AdonisUI\AdonisUI.csproj", "{45E54988-48A0-43AB-810B-0EE50E77F8FC}"
 EndProject
@@ -12,21 +12,35 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
 		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{45E54988-48A0-43AB-810B-0EE50E77F8FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{45E54988-48A0-43AB-810B-0EE50E77F8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E54988-48A0-43AB-810B-0EE50E77F8FC}.Debug|x64.ActiveCfg = Debug|x64
+		{45E54988-48A0-43AB-810B-0EE50E77F8FC}.Debug|x64.Build.0 = Debug|x64
 		{45E54988-48A0-43AB-810B-0EE50E77F8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45E54988-48A0-43AB-810B-0EE50E77F8FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E54988-48A0-43AB-810B-0EE50E77F8FC}.Release|x64.ActiveCfg = Release|x64
+		{45E54988-48A0-43AB-810B-0EE50E77F8FC}.Release|x64.Build.0 = Release|x64
 		{BB83094A-C51A-41DA-8A74-C0B41E84539A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BB83094A-C51A-41DA-8A74-C0B41E84539A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB83094A-C51A-41DA-8A74-C0B41E84539A}.Debug|x64.ActiveCfg = Debug|x64
+		{BB83094A-C51A-41DA-8A74-C0B41E84539A}.Debug|x64.Build.0 = Debug|x64
 		{BB83094A-C51A-41DA-8A74-C0B41E84539A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB83094A-C51A-41DA-8A74-C0B41E84539A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB83094A-C51A-41DA-8A74-C0B41E84539A}.Release|x64.ActiveCfg = Release|x64
+		{BB83094A-C51A-41DA-8A74-C0B41E84539A}.Release|x64.Build.0 = Release|x64
 		{1C41D016-993D-41B5-B9DB-4581867829D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1C41D016-993D-41B5-B9DB-4581867829D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C41D016-993D-41B5-B9DB-4581867829D6}.Debug|x64.ActiveCfg = Debug|x64
+		{1C41D016-993D-41B5-B9DB-4581867829D6}.Debug|x64.Build.0 = Debug|x64
 		{1C41D016-993D-41B5-B9DB-4581867829D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C41D016-993D-41B5-B9DB-4581867829D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C41D016-993D-41B5-B9DB-4581867829D6}.Release|x64.ActiveCfg = Release|x64
+		{1C41D016-993D-41B5-B9DB-4581867829D6}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
